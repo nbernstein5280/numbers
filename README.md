@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Nate Bernstein 
+2. Student ID: 2369305
+3. Email: nbernstein@chapman.edu
+4. Class: CENG 298-01
 5. Assignment: numbers 
 
 ## Application Purpose
@@ -16,9 +16,9 @@ A bash script named “numbers.sh” that will
 2. numbers-input
 
 ## Known Errors 
-
+none
 ## References
-
+in class instruction
 ## Instructions
 To run the script with input from the included numbers-input file:
 ./numbers.sh < numbers-input
